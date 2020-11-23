@@ -1,0 +1,8 @@
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\Template_Project.csprojAssemblyReference.cache
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\MainWindow.g.cs
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\App.g.cs
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\Template_Project_MarkupCompile.cache
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\Template_Project_MarkupCompile.lref
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\REI MK II\source\repos\Template_Project\obj\Debug\View\PatientWindow.g.cs
